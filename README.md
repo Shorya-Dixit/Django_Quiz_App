@@ -24,7 +24,7 @@ Before running this app locally, please make sure you have the following install
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/my-django-project.git
+git clone https://github.com/Shorya-Dixit/Django_Quiz_App.git
 cd my-django-project
 ```
 
